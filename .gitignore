@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+/artifacts
+/cache
+/node_modules
+/test-results
+/typechain-types
+/.openzeppelin
+.DS_Store
+.env
+.venv
+scripts/deployments/**/initialization.ts
